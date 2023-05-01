@@ -22,8 +22,9 @@ The project is focused on building the google interface, especially its UI/UX to
 
 * Footer: Section containing extra information for the user.
 
-## Project objective
+## Project objective 🎯
 Learn how to use HTML5 tags and CSS3 properties, as well as identify core components of a website, to analyse and replicate them using basic components.
 
-## Link to Demo
+## Link to Demo 🕹
+
 
