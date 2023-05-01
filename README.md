@@ -2,10 +2,10 @@
 ###### Created with HTML5 and CSS3 in the bootcamp of TecnolochicasPro
 
 ## TABLE OF CONTENTS
-* [Intro]()
-* [What did I build?]()
-* [Project objective]()
-* [Link to Demo]()
+* [Intro](#intro-)
+* [What did I build?](#what-did-i-build-)
+* [Project objective](#project-objective-)
+* [Link to Demo](#link-to-demo-)
 
 ***
 
@@ -26,5 +26,5 @@ The project is focused on building the google interface, especially its UI/UX to
 Learn how to use HTML5 tags and CSS3 properties, as well as identify core components of a website, to analyse and replicate them using basic components.
 
 ## Link to Demo 🕹
-
+View my finished project here [Google Clone]()
 
